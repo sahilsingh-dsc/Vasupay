@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382213850457",
+    "firebase_url": "https://vasu-pay.firebaseio.com",
+    "project_id": "vasu-pay",
+    "storage_bucket": "vasu-pay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382213850457:android:6e4501d52ebbb2fa927848",
+        "android_client_info": {
+          "package_name": "com.vasupay.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382213850457-70dqkvans2rdo9goctbqkmb97cktet08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vasupay.customer",
+            "certificate_hash": "541c9f633a976703e3c227082f6c0591490a25cc"
+          }
+        },
+        {
+          "client_id": "382213850457-d7cd2pn4uvtnk08rdufefils5g3ih2bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNYeRG01usEwUbeSjl5sMFPjifedor6TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382213850457-d7cd2pn4uvtnk08rdufefils5g3ih2bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
